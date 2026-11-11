@@ -21,10 +21,10 @@
 
 | 文件 | 说明 |
 |---|---|
-| `SEGUS-Mobile-<版本>-universal-release.apk` | 通用安装包（推荐，适配所有机型） |
-| `SEGUS-Mobile-<版本>-arm64-v8a-release.apk` | 仅 arm64（体积更小，绝大多数手机适用） |
+| `SEGUS-Mobile-0.1.42-universal-release.apk` | 通用安装包（推荐，适配所有机型） |
+| `SEGUS-Mobile-0.1.42-arm64-v8a-release.apk` | 仅 arm64（体积更小，绝大多数手机适用） |
 
-安装时系统会提示「未知来源」，允许后即可安装。首次启动按引导配对，见下节。
+安装时系统会提示「未知来源」，允许后即可安装。覆盖安装会自动保留原有数据。
 
 ## 配对步骤
 
@@ -45,7 +45,7 @@
 
 ## 版本
 
-当前发布：**0.1.41**（versionCode 38，包名 `com.segus.assistant`）
+当前发布：**0.1.42**（versionCode 40，包名 `com.segus.assistant`）
 
 历史版本安装包会随 Release 一起下线，只保留最新可用版本。
 
